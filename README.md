@@ -1,1 +1,2 @@
 # python
+me studying python
